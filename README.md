@@ -1,4 +1,6 @@
 # Video autoplay
+<a href="https://samdeoliveira.github.io/video-autoplay/video-autoplay.html">
+https://samdeoliveira.github.io/video-autoplay/video-autoplay.html <br>
 <img src="https://uploaddeimagens.com.br/images/004/161/830/original/Screenshot_2.png" height="250" width="300">
 
 # Sobre
