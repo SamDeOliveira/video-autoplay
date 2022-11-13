@@ -16,7 +16,7 @@ Esse autoplay que fiz funciona em: <br>
 
 
 # Resultado
-<a href="https://samdeoliveira.github.io/video-autoplay/">
-https://samdeoliveira.github.io/video-autoplay/
+<a href="https://samdeoliveira.github.io/video-autoplay/video-autoplay.html">
+https://samdeoliveira.github.io/video-autoplay/video-autoplay.html
   <br>
 <img src="https://uploaddeimagens.com.br/images/004/161/830/original/Screenshot_2.png" height="400" width="500">
